@@ -1,0 +1,7 @@
+---
+title: "index"
+author: "lmacias"
+date: "9/17/2019"
+---
+
+Práctica para la fabricación de páginas en github.
